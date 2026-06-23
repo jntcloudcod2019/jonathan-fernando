@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jonathan F. Silva
-a
+
 ### Engenheiro de Software Full Stack
 **Mercado Financeiro & Bancário · São Paulo · Remoto**
 
